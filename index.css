@@ -26,6 +26,7 @@ html, body {
 
 .runner-container {
   background-image: url(bg.png);
+  background-size: contain;
 }
 
 

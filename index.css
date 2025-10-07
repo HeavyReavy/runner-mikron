@@ -186,4 +186,5 @@ html, body {
   z-index: 2;
   background-size: contain;
   background-position: left;
+  background-repeat: no-repeat;
 }

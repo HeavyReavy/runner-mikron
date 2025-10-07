@@ -49,7 +49,6 @@ html, body {
   position: absolute;
   top: 35px;
   width: 44px;
-  background-image: none;
 }
 
 .offline .runner-canvas {

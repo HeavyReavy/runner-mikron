@@ -24,6 +24,10 @@ html, body {
   display: none;
 }
 
+.runner-container {
+  background-image: url(/assets/bg.png);
+}
+
 
 /* Offline page */
 
